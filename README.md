@@ -1,2 +1,1 @@
-# practice-anything
-this repo is for practice purpose
+### **This repo is for practice purpose**
